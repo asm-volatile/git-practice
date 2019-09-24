@@ -14,6 +14,9 @@ Let's use `#` for headings, `##` for sub-headings, and `###` for sub-headings in
 
 Always take Agile/Lean evangelism with a grain of salt.  There are clear benefits from a business-person's perspective with Big Design Up-Front/Waterfall - clear scope, agreement on resources, fees, and scope, etc.  And there are inherent problems in purist agile development - how much will it cost?  How long will it take?  You can't answer such basic questions if doing only incremental work with no up-front design.  Doing Waterfall under the banner of Agile is extremely common in industry for this and other reasons.
 
+## Comment from Bella Steains
+This is all very interesting to consider as we head into what will be, for most of us, the first start to finish software development cycle. I am very interested to see how my team will handle these challenges, and if we will face any conflicts with the Agile and Scrum framework. 
+
 
 
 
